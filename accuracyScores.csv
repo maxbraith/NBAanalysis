@@ -1,0 +1,10 @@
+Predict home Team	0.586374412
+Predict away Team	0.413625588
+Predict home team unless awayTeam has more wins	0.700633477
+Predict home team unless awayTeam has less losses	0.701333022
+Predict home team unless awayTeam has higher win%	0.699350977
+Predict team who scored more points in their previous game	0.530432077
+Predict team who scored more points in the first quarter of their previous game	0.527670828
+Predict team who scored more points in the second quarter of their previous game	0.520864932
+Predict team who scored more points in the third quarter of their previous game	0.530198732
+Predict team who scored more points in the fourth quarter of their previous game	0.512192276
